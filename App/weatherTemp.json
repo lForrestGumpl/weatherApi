@@ -1,0 +1,14 @@
+{
+  "Владивосток": {
+    "time": 1706133584026,
+    "data": {
+      "name": "Владивосток",
+      "country": "Россия",
+      "weatherDescript": "Clear",
+      "feelsLikeC": -28.8,
+      "tempC": -17,
+      "tempF": 1.4,
+      "feelsLikeF": -19.8
+    }
+  }
+}
